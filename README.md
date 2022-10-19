@@ -5,7 +5,7 @@
 ## Example:
 
 ```
-const { generateTheme } = require('antd-theme-generator');
+const { generateTheme } = require('antd-theme-full-generator');
 
 const options = {
   antDir: path.join(__dirname, './node_modules/antd'),
