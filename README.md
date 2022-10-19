@@ -1,6 +1,6 @@
 # antd-theme-generator
 
-This script generates color specific styles/less file which you can use to change theme dynamically in browser
+此脚本生成颜色特定的样式/更少文件，您可以使用该文件在浏览器中动态更改主题，本插件复制于antd-theme-generator，并且引入了静态antd样式的压缩、替换功能，避免样式覆盖
 
 ## Example:
 
